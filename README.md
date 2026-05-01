@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**Vipultrivedi94/Vipultrivedi94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 My GitHub Stats
 
-Here are some ideas to get you started:
+![Stats](https://github-readme-stats.vercel.app/api?username=Vipultrivedi94&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Streak](https://streak-stats.demolab.com?user=Vipultrivedi94&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipultrivedi94&layout=compact&theme=radical)
+
+## 👋 Hi, I’m Vipul Trivedi 
+
+Aspiring Data Analyst | SQL • Python • Excel • Data Visualization
+
+I believe in learning by solving real-world problems, not just watching tutorials.
+My GitHub is where I turn raw data into meaningful insights and stories. 🚀
+
+### 😎 About Me 
+
+● Focus: Building real-world data analysis projects using SQL, Python, Excel, and Power Bi 
+● Skills: Data Cleaning, Data Visualization, Exploratory Data Analysis 
+● Learning: Power BI, Advanced SQL,and 
+● Tools: MySQL, PostgreSQL, Pandas, NumPy, Excel
+● Collaboration: Open to working on data-driven projects and analytics dashboards
+
+## < /> Languages and Tools:
+
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql)
+
+![Excel](https://img.shields.io/badge/-Excel-black?style=for-the-badge&logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/-PowerBI-black?style=for-the-badge&logo=powerbi)
+
+## 🤝 Connect with Me
+[
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_ID)
+](https://www.linkedin.com/in/vipul-trivedi-2b375637a?)
+
