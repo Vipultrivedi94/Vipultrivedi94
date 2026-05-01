@@ -35,7 +35,6 @@ My GitHub is where I turn raw data into meaningful insights and stories. 🚀
 ![Power BI](https://img.shields.io/badge/-PowerBI-black?style=for-the-badge&logo=powerbi)
 
 ## 🤝 Connect with Me
-[
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_ID)
 
 
