@@ -34,6 +34,11 @@ My GitHub is where I turn raw data into meaningful insights and stories. 🚀
 ![Excel](https://img.shields.io/badge/-Excel-black?style=for-the-badge&logo=microsoft-excel)
 ![Power BI](https://img.shields.io/badge/-PowerBI-black?style=for-the-badge&logo=powerbi)
 
+## Data analyst library 
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=for-the-badge&logo=plotly)
+
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_ID)
 
