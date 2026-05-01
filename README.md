@@ -40,5 +40,5 @@ My GitHub is where I turn raw data into meaningful insights and stories. 🚀
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=for-the-badge&logo=plotly)
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_ID)]
+[[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_ID)]](https://www.linkedin.com/in/vipul-trivedi-2b375637a)
 
