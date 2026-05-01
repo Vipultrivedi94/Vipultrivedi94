@@ -16,10 +16,13 @@ My GitHub is where I turn raw data into meaningful insights and stories. 🚀
 
 ### 😎 About Me 
 
-● Focus: Building real-world data analysis projects using SQL, Python, Excel, and Power Bi 
-● Skills: Data Cleaning, Data Visualization, Exploratory Data Analysis 
-● Learning: Power BI, Advanced SQL,and 
+● Focus: Building real-world data analysis projects using SQL, Python, Excel, and Power Bi   
+● Skills: Data Cleaning, Data Visualization, Exploratory Data Analysis
+
+● Learning: Power BI, Advanced SQL,and  
+
 ● Tools: MySQL, PostgreSQL, Pandas, NumPy, Excel
+
 ● Collaboration: Open to working on data-driven projects and analytics dashboards
 
 ## < /> Languages and Tools:
@@ -34,5 +37,5 @@ My GitHub is where I turn raw data into meaningful insights and stories. 🚀
 ## 🤝 Connect with Me
 [
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_ID)
-](https://www.linkedin.com/in/vipul-trivedi-2b375637a?)
+
 
